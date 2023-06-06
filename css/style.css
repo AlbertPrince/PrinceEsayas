@@ -2,3 +2,9 @@
     max-width: 100%;
     max-height: auto;
 }
+
+.center {
+    margin: auto;
+    text-align: auto;
+    padding: auto;
+}
